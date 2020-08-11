@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![gophers](./ezgif.com-video-to-gif.gif)
-
 <!--
 **max-weis/max-weis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
